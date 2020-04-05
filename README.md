@@ -1,3 +1,3 @@
 # The Web Development Glossary Forum
 
-This is the “forum” for the [living](https://meiert.com/en/blog/living-websites-living-books/) book [_The Web Development Glossary_](https://leanpub.com/web-development-glossary), explaining and defining important, useful, and historic web dev terms. Use it to [report issues and leave suggestions](https://github.com/j9t/web-development-glossary-forum/issues/new). Thank you!
+This is the “forum” for the [living](https://meiert.com/en/blog/living-websites-living-books/) book [_The Web Development Glossary_](https://leanpub.com/web-development-glossary) which explains and defines almost 2,000 important, useful, and historic web dev terms. Use it to [report issues and leave suggestions](https://github.com/j9t/web-development-glossary-forum/issues/new). Thank you!
