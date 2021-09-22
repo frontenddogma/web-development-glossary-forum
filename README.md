@@ -4,6 +4,7 @@ This is the “forum” for the [living](https://meiert.com/en/blog/living-websi
 
 ## Stats
 
-* November 28, 2020: 2,340 terms (meanings; `\n:`), 752 references (`\n: →`), 1,588 definitions.
-* January 9, 2021 (1.3.4): 2,587 terms, 853 references, 1,734 definitions.
+* September 22, 2021 (1.4.0): 3,016 terms, 999 references, 2,017 definitions.
 * August 16, 2021 (1.3.22): 2,640 terms, 857 references, 1,783 definitions.
+* January 9, 2021 (1.3.4): 2,587 terms, 853 references, 1,734 definitions.
+* November 28, 2020: 2,340 terms (meanings; `\n:`), 752 references (`\n: →`), 1,588 definitions.
