@@ -1,6 +1,6 @@
 # The Web Development Glossary Forum
 
-This is the makeshift forum for the [living](https://meiert.com/en/blog/living-websites-living-books/) book [_The Web Development Glossary_](https://leanpub.com/web-development-glossary) which explains and defines more than 2,000 (3,000!) important, useful, and historic web development terms.
+This is the makeshift forum for the [living](https://meiert.com/en/blog/living-websites-living-books/) book [_The Web Development Glossary_](https://meiert.com/en/blog/the-web-development-glossary/) which explains and defines more than 2,000 (3,000!) important, useful, and historic web development terms.
 
 Use the forum to [report issues and make suggestions](https://github.com/j9t/web-development-glossary-forum/issues/new). Thank you!
 
