@@ -12,8 +12,7 @@ Use the forum to [report issues and make suggestions](https://github.com/j9t/web
 * January 9, 2021 (1.3.4): 2,587 terms – 853 references = 1,734 definitions
 * August 16, 2021 (1.3.22): 2,640 terms – 857 references = 1,783 definitions
 * October 10, 2022 (1.4.25): 3,025 terms – 1,008 references = 2,017 definitions
+
+### _The Web Development Glossary 3K_ [⏳](https://leanpub.com/web-development-glossary-3k)
+
 * (May 13, 2023 (0.1.86): 3,625 terms (meanings; `\n:`) – 1,267 references (`\n: →`) = 2358 definitions)
-
-### _The Web Development Glossary 3K_
-
-* [In progress ⏳](https://leanpub.com/web-development-glossary-3k)
