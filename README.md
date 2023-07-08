@@ -16,4 +16,4 @@ Use the forum to [report issues and make suggestions](https://github.com/j9t/web
 ### _The Web Development Glossary 3K_ [⏳](https://leanpub.com/web-development-glossary-3k)
 
 * (May 14, 2023 (0.1.91): 3,660 terms (meanings; `\n:`) – 1,272 references (`\n: →`) = 2,388 definitions)
-* (July 8, 2023 (1.0.4): 3,731 terms – 1,303 references = 2,428 definitions)
+* (July 8, 2023 (1.0.5): 3,733 terms – 1,305 references = 2,428 definitions)
