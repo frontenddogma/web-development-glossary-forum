@@ -6,9 +6,9 @@ Use the forum to [report issues and make suggestions](https://github.com/j9t/web
 
 ## Stats
 
-### _The Web Development Glossary 3K_ [⏳](https://leanpub.com/web-development-glossary-3k)
+### [_The Web Development Glossary 3K_](https://meiert.com/en/blog/the-web-development-glossary-3k/)
 
-* July 15, 2023 (1.1.8): 3,735 terms – 1,306 cross-references = 2,429 definitions
+* July 27, 2023 (1.1.10): 3,735 terms – 1,306 cross-references = 2,429 definitions
 * (May 14, 2023 (0.1.91): 3,660 terms – 1,272 cross-references = 2,388 definitions)
 
 ### [_The Web Development Glossary_](https://meiert.com/en/blog/the-web-development-glossary/)
