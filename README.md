@@ -1,6 +1,6 @@
 # The Web Development Glossary Forum
 
-This is the makeshift forum for the [living](https://meiert.com/en/blog/living-websites-living-books/) _The Web Development Glossary_ books, which explain and define thousands of web development terms.
+This is the makeshift forum for the [living](https://meiert.com/en/blog/living-websites-living-books/) _The Web Development Glossary_ books<!-- as well as the glossary website, [WebGlossary.info](https://webglossary.info/) -->, which explain and define thousands of web development terms.
 
 Use the forum to [report issues and make suggestions](https://github.com/j9t/web-development-glossary-forum/issues/new). Thank you!
 
