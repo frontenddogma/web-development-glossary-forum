@@ -6,7 +6,7 @@ Use the forum to [report issues and make suggestions](https://github.com/j9t/web
 
 ## Stats
 
-(Book and website counts seem to differ. This is likely a problem with the regexes used for the book, but could also indicate a website conversion issue. To be reviewed.)
+These are the book counts. The website counts distinct entries (pages), where, given the same manuscript versions, the overall number of meanings matches the number of terms presented here. (It was easiest so far to speak of “terms” in the book, and of “entries” on the website.)
 
 ### [_The Web Development Glossary 3K_](https://meiert.com/en/blog/the-web-development-glossary-3k/)
 
