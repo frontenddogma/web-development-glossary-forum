@@ -6,7 +6,7 @@ Use the forum to [report issues and make suggestions](https://github.com/j9t/web
 
 ## Stats
 
-These are the book counts. The website goes by distinct entries (pages), where, given the same manuscript versions, the overall number of _meanings_ corresponds with the number of terms presented here. (It has been easier to speak of “terms” in the book, and of “entries” on the website.)
+These are the book counts. The website goes by distinct entries (pages), where, given the same manuscript versions, it’s the overall number of _meanings_ that corresponds with the number of terms presented here. (It has been easier to speak of “terms” in the book, and of “entries” on the website.)
 
 ### [_The Web Development Glossary 3K_](https://meiert.com/en/blog/the-web-development-glossary-3k/)
 
