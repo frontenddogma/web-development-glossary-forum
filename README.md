@@ -2,7 +2,7 @@
 
 This is the makeshift forum for the [living](https://meiert.com/en/blog/living-websites-living-books/) _The Web Development Glossary_ books as well as the glossary website, [WebGlossary.info](https://webglossary.info/), which explain and define thousands of web development terms.
 
-Use the forum to [report issues and make suggestions](https://github.com/j9t/web-development-glossary-forum/issues/new). Thank you!
+Use the forum to [report issues and make suggestions](https://github.com/j9t/web-development-glossary-forum/issues/new). (Thank you!)
 
 ## Stats
 
@@ -18,5 +18,5 @@ These are the book counts. The website goes by distinct entries (pages), where, 
 * July 18, 2023 (1.4.70): 3,025 terms – 1,007 cross-references = 2,018 definitions
 * October 10, 2022 (1.4.25): 3,025 terms – 1,008 cross-references = 2,017 definitions
 * August 16, 2021 (1.3.22): 2,640 terms – 857 cross-references = 1,783 definitions
-* January 9, 2021 (1.3.4): 2,587 terms – 853 cross-references = 1,734 definition
+* January 9, 2021 (1.3.4): 2,587 terms – 853 cross-references = 1,734 definitions
 * November 28, 2020: 2,340 terms (meanings; `\n:`) – 752 cross-references (`\n: →`) = 1,588 definitions
