@@ -2,7 +2,7 @@
 
 This is the makeshift forum for the [living](https://meiert.com/en/blog/living-websites-living-books/) _The Web Development Glossary_ books as well as the glossary website, [WebGlossary.info](https://webglossary.info/), which explain and define thousands of web development terms.
 
-(Learn a web development term a day on [Mastodon](https://techhub.social/@webglossary), [Bluesky](https://bsky.app/profile/webglossary.bsky.social), or [Twitter/X](https://x.com/WebGlossaryinfo)!)
+(Learn a web development term a day on [Mastodon](https://techhub.social/@webglossary), [Bluesky](https://bsky.app/profile/webglossary.info), or [Twitter/X](https://x.com/WebGlossaryinfo)!)
 
 Use the forum to [report issues and make suggestions](https://github.com/frontenddogma/web-development-glossary-forum/issues/new). (Thank you!)
 
