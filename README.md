@@ -12,6 +12,7 @@ These are the book counts. The website goes by distinct entries (pages), where, 
 
 ### [_The Web Development Glossary 3K_](https://meiert.com/en/blog/the-web-development-glossary-3k/)
 
+* January 23, 2025 (1.1.204): 4,061 terms – 1,437 cross-references = 2,624 definitions
 * January 3, 2025 (1.1.194): 4,033 terms – 1,427 cross-references = 2,606 definitions
 * August 20, 2024 (1.1.151): 3,934 terms – 1,397 cross-references = 2,537 definitions
 * April 13, 2024 (1.1.107): 3,849 terms – 1,357 cross-references = 2,492 definitions
