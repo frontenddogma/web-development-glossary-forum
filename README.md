@@ -10,9 +10,9 @@ Use the forum to [report issues and make suggestions](https://github.com/fronten
 
 These are the book counts. The website goes by distinct entries (pages), where, given the same manuscript versions, it’s the overall number of _meanings_ that corresponds with the number of terms presented here. (It has felt more natural to speak of “terms” in the book, and of “entries” on the website.)
 
-### _The Web Development Glossary 4K_
+### _The Web Development Glossary 4K_ ([Upcoming…](https://leanpub.com/web-development-glossary-4k))
 
-[Upcoming…](https://leanpub.com/web-development-glossary-4k)
+* May 15, 2025 (0.0.26): 4,226 terms – 1,508 cross-references = 2,718 definitions
 
 ### [_The Web Development Glossary 3K_](https://meiert.com/blog/the-web-development-glossary-3k/)
 
