@@ -12,6 +12,7 @@ These are the book counts. The website goes by distinct entries (pages), where, 
 
 ### _The Web Development Glossary 4K_ ([Upcoming…](https://leanpub.com/web-development-glossary-4k))
 
+* Feb 9, 2026 (0.0.124): 4,751 terms – 1,696 cross-references = 3,255 definitions
 * Oct 13, 2025 (0.0.84): 4,588 terms – 1,639 cross-references = 3,049 definitions
 * May 15, 2025 (0.0.26): 4,226 terms – 1,508 cross-references = 2,718 definitions
 
