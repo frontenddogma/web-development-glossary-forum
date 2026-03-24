@@ -4,13 +4,19 @@ This is the makeshift forum for the [living](https://meiert.com/blog/living-webs
 
 Use the forum to [report issues and make suggestions](https://github.com/frontenddogma/web-development-glossary-forum/issues/new). (Thank you!)
 
-(Learn a web development term a day on [Mastodon](https://techhub.social/@webglossary) or [Bluesky](https://bsky.app/profile/webglossary.info) 💡)
+## Did You Know?
+
+You can…
+
+* Learn a web development term a day on [Mastodon](https://techhub.social/@webglossary) or [Bluesky](https://bsky.app/profile/webglossary.info) 💡
+* [Make WebGlossary.info one of your search engines](https://meiert.com/blog/web-development-glossary-search/) 🔍
+* [Look up terms directly in your JetBrains IDE](https://plugins.jetbrains.com/plugin/29685-the-web-development-glossary) 💻
 
 ## Stats
 
 These are the book counts. The website goes by distinct entries (pages), where, given the same manuscript versions, it’s the overall number of _meanings_ that corresponds with the number of terms presented here. (It has felt more natural to speak of “terms” in the book, and of “entries” on the website.)
 
-### _The Web Development Glossary 4K_ ([Upcoming…](https://leanpub.com/web-development-glossary-4k))
+### [_The Web Development Glossary 4K_](https://meiert.com/blog/the-web-development-glossary-4k/)
 
 * Mar 21, 2026 (1.0.0): 4,814 terms – 1,722 cross-references = 3,092 definitions
 * Feb 9, 2026 (0.0.124): 4,751 terms – 1,696 cross-references = 3,055 definitions
