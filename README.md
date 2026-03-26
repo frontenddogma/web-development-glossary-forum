@@ -16,7 +16,7 @@ You can…
 
 These are the book counts. The website goes by distinct entries (pages), where, given the same manuscript versions, it’s the overall number of _meanings_ that corresponds with the number of terms presented here. (It has felt more natural to speak of “terms” in the book, and of “entries” on the website.)
 
-### [_The Web Development Glossary 4K_](https://meiert.com/blog/the-web-development-glossary-4k/)
+### [_The Web Development Glossary 4K_](https://meiert.com/blog/the-web-development-glossary-4k/) 🆕
 
 * Mar 21, 2026 (1.0.0): 4,814 terms – 1,722 cross-references = 3,092 definitions
 * Feb 9, 2026 (0.0.124): 4,751 terms – 1,696 cross-references = 3,055 definitions
