@@ -39,4 +39,4 @@ These are the book counts. The website goes by distinct entries (pages), where, 
 * October 10, 2022 (1.4.25): 3,025 terms – 1,008 cross-references = 2,017 definitions
 * August 16, 2021 (1.3.22): 2,640 terms – 857 cross-references = 1,783 definitions
 * January 9, 2021 (1.3.4): 2,587 terms – 853 cross-references = 1,734 definitions
-* November 28, 2020: 2,340 terms (meanings; `\n:`) – 752 cross-references (`\n: →`) = 1,588 definitions
+* November 28, 2020: 2,340 terms (**meanings**, that is, counting terms with multiple meanings as multiple terms; `\n:`) – 752 cross-references (`\n: →`) = 1,588 definitions
